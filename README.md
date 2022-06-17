@@ -1,1 +1,1 @@
-# K8S the hard way implementation using terraform
+# K8S the hard way implementation using IaC with terraform
